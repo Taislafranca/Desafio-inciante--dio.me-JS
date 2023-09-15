@@ -1,5 +1,4 @@
-// Variáveis
-let nomeHeroi = "Pantera negra"; // Substitua pelo nome do herói
+let nomeHeroi = "Pantera negra"
 let heroi = 10000
 let nivelHeroi
 
@@ -33,5 +32,5 @@ if (heroi < 1000) {
   nivelHeroi = "Radiante";
 }
 
-// Saída
+
 console.log("O Herói de nome " + nomeHeroi + " está no nível de " + nivelHeroi);
